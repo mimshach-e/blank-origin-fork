@@ -1,0 +1,19 @@
+body {
+  background-color: darkslategrey;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  flex-direction: column;
+}
+
+.text-header {
+    min-height: 100px;
+}
+
+.main-header h1,
+.main-header h2 {
+    display: inline; /* or display: inline-block; */
+    margin-right: 10px; /* Adjust the margin as needed */
+}
