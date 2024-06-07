@@ -1,10 +1,10 @@
 const textDisplay = document.getElementById('text')
 const phrases = 
 [
-  'Hello, my name is Tomas.',
+  'Hello, my name is Mimshach.',
   'I am a Software Engineer.',
-  'I love to teach.',
-  'I like to rock climb and play soccer.'
+  'I love to code.',
+  'I like to solve problems and inspire people.'
 ]
 let i = 0
 let j = 0 
